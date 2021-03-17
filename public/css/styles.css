@@ -41,10 +41,10 @@ header a{
 
 }
 
-input{
-    border: 1px solid #cccccc;
+input {
+    border: 1px solid #ccc;
     padding: 8px;
-}
+  }
 
 button{
     cursor: pointer;
